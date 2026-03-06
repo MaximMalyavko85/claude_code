@@ -70,6 +70,8 @@ CLAUDE.md
 ###  Вставить изображение
 > command + V
 
+<img width="1451" height="1030" alt="image" src="https://github.com/user-attachments/assets/81a897c2-a153-4ee9-8f09-6441b0ba7ce7" />
+
 
 
 
